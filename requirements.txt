@@ -102,3 +102,6 @@ fpdf==1.7.2
 # ✅ Add this at the end if using PlaySound on Linux (optional workaround)
 # gTTS==2.5.1
 
+chromadb==1.0.12
+
+
